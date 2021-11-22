@@ -6,9 +6,8 @@
     "browser": false
   },
   "extends": [
-    "eslint:recommended",
+    "eslint:recommended"
   ],
-  },
   "ignorePatterns": [
     "node_modules/**",
     "**/dist/**"

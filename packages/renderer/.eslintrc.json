@@ -6,5 +6,5 @@
   "extends": [
     /** @see https://eslint.vuejs.org/rules/ */
     "plugin:vue/vue3-recommended"
-  ],
+  ]
 }
