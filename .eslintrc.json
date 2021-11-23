@@ -8,6 +8,9 @@
   "extends": [
     "eslint:recommended"
   ],
+  "parserOptions": {
+    "sourceType": "module"
+  },
   "ignorePatterns": [
     "node_modules/**",
     "**/dist/**"
